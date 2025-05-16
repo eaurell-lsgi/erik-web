@@ -10,6 +10,7 @@ import {
 import Erik from './Erik';
 
 import Pagina2 from './pagina2';
+import Vehicles from './Vehicles';
 
 let router = createBrowserRouter([
   {
@@ -23,6 +24,10 @@ let router = createBrowserRouter([
   {
     path: "/Pagina2",
     Component: Pagina2,
+  },
+  {
+    path: "/Vehicles",
+    Component: Vehicles,
   },
   {
     path: "*",

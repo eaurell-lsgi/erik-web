@@ -21,7 +21,7 @@ function App() {
           La trama de GTA V se centra en las vidas de estos tres personajes, cada uno con sus propios objetivos y pasados complicados. A lo largo del juego, los jugadores pueden alternar entre los tres personajes mientras se embarcan en una serie de robos, persecuciones y confrontaciones con el crimen organizado y las autoridades.
         </p>
 
-        <h3>Conflictos y Temáticas</h3>
+        <h3>Temática</h3>
         <p>
           La historia aborda temas como la corrupción, la traición, el crimen organizado y las relaciones personales rotas. Además, el juego ofrece una crítica a la sociedad moderna, explorando el consumismo, la fama y la decadencia de la vida urbana en Los Santos.
         </p>
@@ -29,7 +29,7 @@ function App() {
 
   
       <section className="info">
-        <h2>Información Adicional</h2>
+        <h2>Informació Adicional</h2>
         <li>
           Fecha de lanzamiento: 17 de septiembre de 2013.
         </li>
@@ -40,10 +40,10 @@ function App() {
           Plataformas: Disponible para PlayStation 3, Xbox 360, PlayStation 4, Xbox One, PC y PlayStation 5 (versión actualizada).
         </li>
         <li>
-          Modos de juego: El juego incluye un modo Historia, donde los jugadores siguen la narrativa de los tres personajes principales, y un modo GTA Online, que permite jugar de manera cooperativa o competitiva con otros jugadores en línea.
+          Modos de juego: El juego incluye un modo Historia y un modo GTA Online, que permite jugar de manera cooperativa en linea.
         </li>
         <li>
-          GTA V se ha mantenido como uno de los juegos más vendidos y populares de todos los tiempos, con millones de jugadores alrededor del mundo y una comunidad activa en GTA Online.
+          GTA V se ha mantenido como uno de los juegos más vendidos y populares de todos los tiempos, con millones de jugadores activos.
         </li>
       </section>
     </div>
