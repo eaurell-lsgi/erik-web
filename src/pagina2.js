@@ -1,13 +1,14 @@
 import { Navbar } from './navbar'
 
-const Erik = () => {
+const Pagina2 = () => {
   return (
     <div className="App">
       <Navbar />
-      Pagina3
+      Pagina2
     </div>
   );
+
+  
 }
 
-export default Erik;
-
+export default Pagina2;

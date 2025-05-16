@@ -9,14 +9,20 @@ import {
 } from "react-router";
 import Erik from './Erik';
 
+import Pagina2 from './pagina2';
+
 let router = createBrowserRouter([
   {
     path: "/",
     Component: App,
   },
   {
-    path: "/erik",
+    path: "/Erik",
     Component: Erik,
+  },
+  {
+    path: "/Pagina2",
+    Component: Pagina2,
   },
   {
     path: "*",
