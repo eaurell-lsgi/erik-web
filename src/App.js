@@ -29,7 +29,7 @@ function App() {
 
   
       <section className="info">
-        <h2>Informació Adicional</h2>
+        <h2>Información Adicional</h2>
         <li>
           Fecha de lanzamiento: 17 de septiembre de 2013.
         </li>

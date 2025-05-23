@@ -1,4 +1,9 @@
 import { Navbar } from './navbar';
+import franklinImg from './franklin.jpg';
+import michaelImg from './Michael-desanta.webp';
+import trevorImg from './trevor.webp';
+
+
 import './pagina2.css';
 
 const Pagina2 = () => {
@@ -9,7 +14,7 @@ const Pagina2 = () => {
 
       <div className="personaje">
         <h3>Franklin Clinton</h3>
-        <img src="./franklin.jpg" alt="Franklin Clinton" />
+        <img src={franklinImg} alt="Franklin Clinton" />
         <p>
           Franklin Clinton es uno de los tres protagonistas jugables de Grand Theft Auto V. 
           Originario de Los Santos, Franklin es un joven ambicioso que comienza su carrera en el crimen 
@@ -21,7 +26,7 @@ const Pagina2 = () => {
 
       <div className="personaje">
         <h3>Michael De Santa</h3>
-        <img src="/Michael-desanta.webp"alt="Michael De Santa" />
+        <img src={michaelImg} alt="Michael De Santa" />
         <p>
           Michael De Santa, nacido Michael Townley, es un hombre que se retiró del crimen después de un 
           robo fallido años antes. Es un personaje complejo, atrapado entre su vida de lujo y una familia disfuncional. 
@@ -32,7 +37,7 @@ const Pagina2 = () => {
 
       <div className="personaje">
         <h3>Trevor Philips</h3>
-        <img src="trevor.webp" alt="Trevor Philips" />
+        <img src={trevorImg} alt="Trevor Philips" />
         <p>
           Trevor Philips es el amigo más inestable y peligroso de Michael. Es un ex-militar con un carácter 
           impulsivo, caótico y extremadamente violento. Trevor vive en el desierto de Blaine County, donde maneja 

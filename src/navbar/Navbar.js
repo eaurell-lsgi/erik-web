@@ -7,7 +7,7 @@ export const Navbar = () => {
       <div className="navbar-container">
         <h1 className="navbar-logo">Grand Theft Auto V</h1>
         <ul className="navbar-links">
-          <li><Link to="/">Página principal</Link></li>
+          <li><Link to="/">Principal</Link></li>
           <li><Link to="/Pagina2">Personatjes</Link></li>
           <li><Link to="/Erik">Mapa</Link></li>
           <li><Link to="/Vehicles">Vehicles</Link></li>
